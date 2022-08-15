@@ -24,14 +24,14 @@ Esse treinamento está sendo construído de forma incremental e evolutiva pela c
 4. Fases
 5. Modelo de maturidade
 6. Domínios
+7. Capacidades e competências
 ### FinOps para o negócio
 1. Aprofundado no Cloud Value Framework
-2. Capacidades e competências
-3. Introdução ao valor comercial
-4. Noções básicas de economia de custos
-5. Produtividade da equipe
-6. Resiliência Operacional
-7. Agilidade nos Negócios
-8. Gerenciamento Financeiro em Nuvem
-9. Introdução à Avaliação do Portfólio de Migração (MPA)
-10. Economia de custos com MPA
+2. Introdução ao valor comercial
+3. Noções básicas de economia de custos
+4. Produtividade da equipe
+5. Resiliência Operacional
+6. Agilidade nos Negócios
+7. Gerenciamento Financeiro em Nuvem
+8. Introdução à Avaliação do Portfólio de Migração (MPA)
+9. Economia de custos com MPA
